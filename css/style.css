@@ -11,3 +11,19 @@
     }
     
 }
+.card-text-bg{
+    color: #848199;
+}
+.card-title-bg{
+    font-family: "Roboto", sans-serif;
+    color: #231D4F;
+
+}
+.button-font{
+    font-family: "Roboto", sans-serif;
+}
+
+.client-img-size{
+    width: 100px;
+    height: 100px;
+}
