@@ -9,6 +9,11 @@
     .img-transform{
         transform: translate(-30%);
     }
+
+    .sm-w-img{
+        width: 362px;
+        height: 241px;
+    }
     
 }
 .card-text-bg{
