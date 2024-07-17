@@ -5,6 +5,10 @@
         color: #3E3E3E;
 
 }
+/* packeges */
+.shadow-lg-package{
+    box-shadow: 5px 15px 10px 10px rgba(135, 206, 250, 0.571);
+}
 @media only screen and (max-width: 576px) {
     .img-transform{
         transform: translate(-30%);
